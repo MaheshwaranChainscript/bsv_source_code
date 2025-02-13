@@ -1,0 +1,9 @@
+{
+  "name": "spvwallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@bsv/spv-wallet-js-client": "^1.0.0-beta.20"
+  }
+}
